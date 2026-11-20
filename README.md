@@ -120,7 +120,7 @@ Static hardware specifications are stored separately from changing usage measure
 
 ## Architecture
 
-![Linux Cluster Monitoring Architecture](assets/arch.png)
+![Linux Cluster Monitoring Architecture](assets/arch.drawio.png)
 
 ## Scripts
 
